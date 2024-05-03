@@ -1,4 +1,4 @@
-# Unveiling Insights in the Movie Industry Dashboard
+# Unveiling Insights in the Movie Industry Dashboard(PowerBi)
 This repository contains the data file for a BI dashboard that provides insights into the movie industry.
 ## Table of Contents
 - [Overview](#overview)
@@ -10,6 +10,9 @@ This repository contains the data file for a BI dashboard that provides insights
 ## Overview
 The dashboard showcases a range of metrics and visualizations to unveil insights into the movie industry. It includes several types of graphs and charts, such as a bar graph, a donut chart, and a line chart comparing IMDB ratings with runtime.
 ## Demo
+![Dashboard](PowerBi Dashboard.jpeg)
+![PowerBi Dashboard](https://github.com/Asohail115/Unveiling_Insights_in_the_Movie_Industry/assets/80779216/180df475-5bbd-454e-b885-55026ff60ead)
+
 ## Features
 - Interactive charts and graphs
 - Useful metrics at a glance
